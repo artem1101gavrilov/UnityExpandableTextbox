@@ -1,1 +1,3 @@
 # UnityExpandableTextbox
+
+![](UnityExpandableTextbox.gif)
